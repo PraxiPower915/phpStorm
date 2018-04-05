@@ -1,5 +1,5 @@
 <scheme name="Ed-Cobalt" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
@@ -941,6 +941,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="273627" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="26167a" />
+        <option name="BACKGROUND" value="71ed86" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
