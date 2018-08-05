@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="GotoFile">
+  <action id="GotoFile" />
+  <action id="OpenFile">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SwitchApply">
